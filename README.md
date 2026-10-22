@@ -102,7 +102,7 @@ Based on the customer segmentation analysis:
 - Automate the RFM analysis pipeline.
 - Evaluate additional segmentation strategies.
 
-## 👩‍💻 Author
+##  Author
 
 **Tanya Solanki**
 
