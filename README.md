@@ -1,12 +1,12 @@
 # Customer RFM Segmentation & Revenue Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer purchasing behavior using **RFM (Recency, Frequency, Monetary) Segmentation** to identify valuable customers, loyal buyers, at-risk customers, and inactive customers.
 
 The objective is to help businesses understand customer value, analyze revenue contribution, and develop targeted customer retention strategies using Python, SQL, and Excel.
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Segment customers based on purchasing behavior.
 - Identify high-value and loyal customers.
@@ -14,7 +14,7 @@ The objective is to help businesses understand customer value, analyze revenue c
 - Identify at-risk and inactive customers.
 - Generate actionable insights to improve customer retention.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python:** Data cleaning, preprocessing, RFM calculations, and segmentation.
 - **Pandas:** Data manipulation and analysis.
@@ -22,7 +22,7 @@ The objective is to help businesses understand customer value, analyze revenue c
 - **Excel:** Summary analysis and data visualization.
 - **Google Colab:** Python development environment.
 
-## 📂 Dataset
+##  Dataset
 
 The project uses the **Online Retail II** dataset, which contains transactional data from an online retail business.
 
@@ -46,7 +46,7 @@ Key fields include:
 6. **SQL Analysis:** Used SQLite queries to analyze segment size, revenue contribution, and top-spending customers.
 7. **Excel Visualization:** Created a bar chart to compare revenue across customer segments.
 
-## 👥 Customer Segments
+##  Customer Segments
 
 | Segment | Business Interpretation |
 |---|---|
@@ -57,7 +57,7 @@ Key fields include:
 | At Risk | Previously engaged customers who may need re-engagement |
 | Hibernating | Inactive customers with low purchase frequency |
 
-## 📊 Key Findings
+##  Key Findings
 
 Based on the customer segmentation analysis:
 
@@ -69,7 +69,7 @@ Based on the customer segmentation analysis:
 
 *Note: Revenue figures are expressed in the dataset's original currency units.*
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - **Champions:** Reward high-value customers with loyalty benefits and exclusive offers.
 - **Loyal Customers:** Encourage repeat purchases through personalized recommendations.
@@ -77,7 +77,7 @@ Based on the customer segmentation analysis:
 - **At Risk:** Launch re-engagement campaigns to encourage customers to return.
 - **Hibernating:** Test win-back campaigns and targeted discounts.
 
-## 📁 Project Files
+## Project Files
 
 - `Online_Retail_II.csv` — Source transaction dataset.
 - `RFM_Customer_Segments.csv` — Customer-level RFM scores and segment labels.
@@ -86,7 +86,7 @@ Based on the customer segmentation analysis:
 - `SQL_Top_100_Customers.csv` — Top customer analysis exported from SQL.
 - `README.md` — Project documentation.
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the project notebook in Google Colab.
 2. Upload the Online Retail II dataset.
@@ -95,7 +95,7 @@ Based on the customer segmentation analysis:
 5. Execute SQL queries for customer and revenue analysis.
 6. Open the exported CSV files in Excel to explore the results.
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Build an interactive Power BI dashboard.
 - Add customer-level revenue and segment comparisons.
